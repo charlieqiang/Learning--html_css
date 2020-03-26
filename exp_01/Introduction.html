@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsPage</title>
+
+    <style type="text/css">
+        html,
+        body {
+            height: 100%;
+            /* background-color: orange; */
+        }
+
+        .wrapper {
+            position: relative;
+            min-height: 100%;
+            padding-bottom: 50px;
+            box-sizing: border-box;
+            /* background-color: orangered; */
+        }
+
+        #playground{
+            width: 100%;
+            height: 500px;
+            /* background-color: palegreen; */
+        }
+
+        #idol{
+            width: fit-content;
+            height: fit-content;
+            /* background-color: orchid; */
+        }
+
+        .footer {
+            text-align: center;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+            height: 50px;
+            /* background-color: pink; */
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="content">
+            <!-- 页面主体内容区域 -->
+            <div id="title">
+                <h1 style="text-align: center;" >劉德華</h1>
+                <hr>
+            </div>
+            <div id="paragraph">
+                <p>練習</p>
+                <p>我已開始練習 開始慢慢著急 著急這世界沒有妳 已經和眼淚說好不哭泣 但倒數計時的愛該怎麽繼續</p>
+                <div id="playground">
+                    <div id="idol" style="top: 10px; left: 10px;">
+                        <img src="https://legend.spe.kim/image/1585120576516aheqe">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <!-- 需要做到 Sticky Footer 效果的页脚 -->
+            Copyright © 2017-2021 Charlie😊 All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
