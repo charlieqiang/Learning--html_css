@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>News Page</title>
+</head>
+
+<body>
+    <!-- top -->
+    <div class="top">
+        <div class="login">login</div>
+        <div class="indexpage">set index</div>
+        <div class="myhref">link</div>
+    </div>
+    <!-- top_end -->
+
+    <!-- mid -->
+    <div class="mid">
+        <!-- logo -->
+        <div class="logo"><img src="img/logo.png"></div>
+        <!-- logo_end -->
+
+        <!-- nav -->
+        <div class="nav">nav</div>
+        <!-- nav_end -->
+
+        <!-- ad -->
+        <div class="ad">
+            <div class="stuad">ad</div>
+            <div class="ad2">
+                <ul>
+                    <li><a href="#flag">flag</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                    <li><a href="#">招生招生招生招生</a></li>
+                </ul>
+            </div>
+            <div class="housead">ad3</div>
+            <div class="imgad">
+                <table height="100%" align="center">
+                    <tr>
+                        <td>
+                            <img src="https://www.w3school.com.cn/i/eg_tulip.jpg">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- ad_end -->
+        <!-- ad -->
+        <div class="ad">
+            <div class="stuad">ad</div>
+            <div class="ad2">
+                <ol>
+                    <li><a href="#">爸爸去哪儿-陈小春</a></li>
+                    <li><a href="#">丁香花-阿杜</a></li>
+                    <li><a href="#">大海-韩红</a></li>
+                    <li><a href="#">只因你太美-蔡徐坤</a></li>
+                </ol>
+            </div>
+            <div class="housead">ad3</div>
+            <div class="imgad">
+                <table height="100%" align="center">
+                    <tr>
+                        <td>
+                            <img src="https://www.w3school.com.cn/i/eg_tulip.jpg">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- ad_end -->
+        <!-- ad -->
+        <div class="ad">
+            <div class="stuad">ad</div>
+            <div class="ad2">
+                <dl>
+                    <dt>Coffee</dt>
+                    <dd>Black hot drink</dd>
+                    <dt>Milk</dt>
+                    <dd>White cold drink</dd>
+                </dl>
+            </div>
+            <div class="housead">ad3</div>
+            <div class="imgad">
+                <table height="100%" align="center">
+                    <tr>
+                        <td>
+                            <img src="https://www.w3school.com.cn/i/eg_tulip.jpg">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- ad_end -->
+        <!-- ad -->
+        <div class="ad">
+            <div class="stuad">ad</div>
+            <div class="ad2">
+
+            </div>
+            <div class="housead">ad3</div>
+            <div class="imgad">
+                <table height="100%" align="center">
+                    <tr>
+                        <td>
+                            <img src="https://www.w3school.com.cn/i/eg_tulip.jpg">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- ad_end -->
+        <!-- ad -->
+        <div class="ad">
+            <div id="flag" class="stuad">
+                <h1>Flag</h1>
+            </div>
+            <div class="ad2">
+                <p>
+                    　　4月10日，国际创新药械展在海南博鳌乐城医疗旅游先行区开幕，
+                    25家跨国药企带着200多种还没在国内上市的医药器械亮相。
+                    他们看重的是通过乐城临床真实世界数据运用的特许政策，可以大幅加快在中国上市的进程。
+                    像这款治疗青光眼的新器械，不到一年就在国内上市了。两年来，得益于允许同步使用国外最
+                    先进医疗药械和临床真实世界数据运用等多项特许政策，乐城完成了50多个“首创案例”。
+                </p>
+            </div>
+            <div class="housead">ad3</div>
+            <div class="imgad">
+                <table height="100%" align="center">
+                    <tr>
+                        <td>
+                            <img src="https://www.w3school.com.cn/i/eg_tulip.jpg">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!-- ad_end -->
+    </div>
+
+    <!-- mid_end -->
+
+
+</body>
+
+</html>
